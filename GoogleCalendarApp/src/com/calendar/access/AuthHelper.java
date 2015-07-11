@@ -85,7 +85,7 @@ public final class AuthHelper {
 
 	/**
 	 * Expects an Authentication Code, and makes an authenticated request for
-	 * the user's profile information
+	 * the user's calendar information
 	 * 
 	 * @return Calendar events list to utilize it as a json
 	 * @param authCode
